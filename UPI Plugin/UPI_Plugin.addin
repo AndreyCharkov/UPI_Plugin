@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<Name> UPI_Plugin</Name>
+		<Assembly>UPI Plugin.dll</Assembly>
+		<AddInId>988A7544-B99C-4173-B22F-9327E10FE65F</AddInId>
+		<FullClassName>UPI_Plugin.Application</FullClassName>
+		<VendorId>Charkov Dev</VendorId>
+		<VendorDescription></VendorDescription>
+	</AddIn>
+</RevitAddIns>
